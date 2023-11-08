@@ -1,4 +1,4 @@
-name: first actions
+name: Second actions
 run-name: ${{ github.actor }} is GitHub Actions
 on: [push]
 jobs:
